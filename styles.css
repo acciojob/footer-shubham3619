@@ -1,1 +1,39 @@
 /* your code here */
+* {
+	font-family: 'Wix Madefor Display', sans-serif;
+	margin:0px;
+	padding:0px;
+}
+footer {
+	background-color:black;
+	color:white;
+	padding:15px;
+}
+.media-icons a img {
+	width:30px;
+	padding: 10px
+}
+.top {
+	display:flex;
+	justify-content:space-between
+}
+.logo_name {
+	font-size:40px;
+}
+.link-boxes {
+	display:flex;
+	justify-content:space-between;
+}
+.box li {
+	list-style: none;
+}
+.heading {
+	font-weight: bold;
+	margin-bottom:10px;
+	text-decoration: underline;
+}
+.bottom-details {
+	display:flex;
+	justify-content:space-between;
+	background-color: #404040;
+}
