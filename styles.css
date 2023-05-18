@@ -12,6 +12,7 @@ footer {
 .media-icons a img {
 	width:30px;
 	padding: 10px
+	display:flex;
 }
 .top {
 	display:flex;
